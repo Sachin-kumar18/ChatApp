@@ -21,7 +21,7 @@ app.use(cookieParser());
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://chatapp-frontend-2xk6.onrender.com"
+  "https://chatapp-frontend-wkbs.onrender.com"
 ];
 
 app.use(
